@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletRequest;
  * Created by asus on 6/26/2018.
  */
 @Controller
+@RequestMapping("/helloWorldController")
 public class HelloWorldController {
 
     //need a controller method to show initial HTML Form
