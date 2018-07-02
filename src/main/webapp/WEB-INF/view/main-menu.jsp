@@ -7,5 +7,6 @@
 <h2>Spring MVC Demo main menu page</h2>
 <hr>
 <a href="helloWorldController/showForm">Hello World Form</a>
+<a href="student/showForm">Student Form</a>
 </body>
 </html>
